@@ -2,7 +2,7 @@
 
 # Portfolio Website
 
-Welcome to the repository for my responsive portfolio website! This website showcases my work, skills, and experiences as a professional in the field. It is designed to adapt to various devices and screen sizes, providing a seamless user experience for anyone visiting the site.
+Welcome to the repository for my responsive portfolio website! This website showcases my work, skills, and experiences as a professional in the field. It is designed to adapt to various devices and screen sizes, providing a seamless user experience for anyone visiting the site.To access my website : [click here](https://ketanchavan24.github.io/BASIC-Portfolio/) 
 
 
 
