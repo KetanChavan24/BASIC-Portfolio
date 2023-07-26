@@ -246,7 +246,7 @@ color: #11999E;
    height: 200px;
    width: 35%;
    display: block;
-   background-image: linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.8)),url('/images/tindog.png');
+   background-image: linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.8)),url(https://repository-images.githubusercontent.com/351409525/51bcca45-1618-4148-b2a2-e787f3991f72);
    background-size: cover;
    transition: 0.2s ease-out;
    border-radius: 15px;
